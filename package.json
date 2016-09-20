@@ -1,0 +1,19 @@
+{
+  "name": "walmart-api",
+  "version": "1.0.0",
+  "description": "Wal-mart API Portion for the Wishlist application for CS 320 XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zroberts/walmart-api.git"
+  },
+  "author": "Zak Roberts / Austin Brand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zroberts/walmart-api/issues"
+  },
+  "homepage": "https://github.com/zroberts/walmart-api#readme"
+}
