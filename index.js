@@ -1,1 +1,1 @@
-console.log("Hello");
+var walmart = require('walmart')(a6yhappxe2tcd2ukqkrtawxr);

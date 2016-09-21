@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zroberts/walmart-api/issues"
   },
-  "homepage": "https://github.com/zroberts/walmart-api#readme"
+  "homepage": "https://github.com/zroberts/walmart-api#readme",
+  "dependencies": {
+    "walmart": "0.0.4"
+  }
 }
