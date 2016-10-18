@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/zroberts/walmart-api#readme",
   "dependencies": {
-    "walmart": "0.0.4"
+    "walmart": "0.0.4",
+    "walton": "0.0.4",
+    "wm-pricer": "^2.2.4"
   }
 }
